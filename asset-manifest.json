@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/himanshu1161/internship-job.git/static/css/main.f9b3210e.css",
+    "main.js": "/himanshu1161/internship-job.git/static/js/main.bd01eedf.js",
+    "static/js/787.b52190a6.chunk.js": "/himanshu1161/internship-job.git/static/js/787.b52190a6.chunk.js",
+    "index.html": "/himanshu1161/internship-job.git/index.html",
+    "main.f9b3210e.css.map": "/himanshu1161/internship-job.git/static/css/main.f9b3210e.css.map",
+    "main.bd01eedf.js.map": "/himanshu1161/internship-job.git/static/js/main.bd01eedf.js.map",
+    "787.b52190a6.chunk.js.map": "/himanshu1161/internship-job.git/static/js/787.b52190a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9b3210e.css",
+    "static/js/main.bd01eedf.js"
+  ]
+}
